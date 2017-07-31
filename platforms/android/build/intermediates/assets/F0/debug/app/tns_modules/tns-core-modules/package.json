@@ -10,7 +10,7 @@
         "spec": ">=3.0.0 <3.1.0",
         "type": "range"
       },
-      "E:\\mobile\\HelloWorld\\node_modules\\nativescript-template-ng-tutorial"
+      "E:\\mobile\\test\\node_modules\\nativescript-template-ng-tutorial"
     ]
   ],
   "_from": "tns-core-modules@>=3.0.0 <3.1.0",
@@ -44,7 +44,7 @@
   "_shasum": "08cd7b72c98e6f563fbba536668a50c04dd1a5fd",
   "_shrinkwrap": null,
   "_spec": "tns-core-modules@~3.0.0",
-  "_where": "E:\\mobile\\HelloWorld\\node_modules\\nativescript-template-ng-tutorial",
+  "_where": "E:\\mobile\\test\\node_modules\\nativescript-template-ng-tutorial",
   "dependencies": {
     "tns-core-modules-widgets": "3.0.1"
   },

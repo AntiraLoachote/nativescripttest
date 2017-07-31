@@ -10,7 +10,7 @@
         "spec": ">=1.0.2 <1.1.0",
         "type": "range"
       },
-      "E:\\mobile\\HelloWorld\\node_modules\\nativescript-template-ng-tutorial"
+      "E:\\mobile\\test\\node_modules\\nativescript-template-ng-tutorial"
     ]
   ],
   "_from": "nativescript-theme-core@>=1.0.2 <1.1.0",
@@ -44,7 +44,7 @@
   "_shasum": "cf2880c7fbf2fe5f43e2235d309750790803efe1",
   "_shrinkwrap": null,
   "_spec": "nativescript-theme-core@~1.0.2",
-  "_where": "E:\\mobile\\HelloWorld\\node_modules\\nativescript-template-ng-tutorial",
+  "_where": "E:\\mobile\\test\\node_modules\\nativescript-template-ng-tutorial",
   "author": {
     "name": "Telerik",
     "email": "support@telerik.com"

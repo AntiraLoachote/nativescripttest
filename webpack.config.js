@@ -44,6 +44,18 @@ module.exports = env => {
         },
         resolve: {
             extensions,
+            //Resolve platform-specific modules like module.android.js
+            // extensions: [
+            // ".aot.ts",
+            // ".ts",
+            // ".js",
+            // ".css",
+            // ".scss",
+            // "." + platform + ".ts",
+            // "." + platform + ".js",
+            // "." + platform + ".css",
+            // "." + platform + ".scss",
+            // ],
 
             // Resolve {N} system modules from tns-core-modules
             modules: [
@@ -219,6 +231,8 @@ function getExtensions(platform) {
         ".ts",
         ".js",
         ".css",
+        ".scss",
         `.${platform}.css`,
+        `.${platform}.scss`,
     ]);
 }

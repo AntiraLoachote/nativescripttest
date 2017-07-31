@@ -10,7 +10,7 @@
         "spec": ">=5.3.0 <5.4.0",
         "type": "range"
       },
-      "E:\\mobile\\HelloWorld\\node_modules\\nativescript-template-ng-tutorial"
+      "E:\\mobile\\test\\node_modules\\nativescript-template-ng-tutorial"
     ]
   ],
   "_from": "rxjs@>=5.3.0 <5.4.0",
@@ -44,7 +44,7 @@
   "_shasum": "dd2f95105f713d95f25b894cbe5f68a5f32c926c",
   "_shrinkwrap": null,
   "_spec": "rxjs@~5.3.0",
-  "_where": "E:\\mobile\\HelloWorld\\node_modules\\nativescript-template-ng-tutorial",
+  "_where": "E:\\mobile\\test\\node_modules\\nativescript-template-ng-tutorial",
   "author": {
     "name": "Ben Lesh",
     "email": "ben@benlesh.com"

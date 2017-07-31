@@ -1,14 +1,14 @@
 [
     {
-        "merged": "E:\\mobile\\HelloWorld\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-ldpi\\icon.png",
-        "source": "E:\\mobile\\HelloWorld\\platforms\\android\\src\\main\\res\\drawable-ldpi\\icon.png"
+        "merged": "E:\\mobile\\test\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-ldpi\\icon.png",
+        "source": "E:\\mobile\\test\\platforms\\android\\src\\main\\res\\drawable-ldpi\\icon.png"
     },
     {
-        "merged": "E:\\mobile\\HelloWorld\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-ldpi\\background.png",
-        "source": "E:\\mobile\\HelloWorld\\platforms\\android\\src\\main\\res\\drawable-ldpi\\background.png"
+        "merged": "E:\\mobile\\test\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-ldpi\\background.png",
+        "source": "E:\\mobile\\test\\platforms\\android\\src\\main\\res\\drawable-ldpi\\background.png"
     },
     {
-        "merged": "E:\\mobile\\HelloWorld\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-ldpi\\logo.png",
-        "source": "E:\\mobile\\HelloWorld\\platforms\\android\\src\\main\\res\\drawable-ldpi\\logo.png"
+        "merged": "E:\\mobile\\test\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-ldpi\\logo.png",
+        "source": "E:\\mobile\\test\\platforms\\android\\src\\main\\res\\drawable-ldpi\\logo.png"
     }
 ]
